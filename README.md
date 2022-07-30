@@ -1,2 +1,2 @@
-# water-level-controller-website
-Website for Smart Water Level Controller.
+# smart-water-level-controller
+Website for Smart Water Level Controller product.
